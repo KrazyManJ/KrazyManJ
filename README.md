@@ -1,8 +1,8 @@
 # KrazyManJ
 
-[![KrazyManJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrazyManJ&show_icons=true&bg_color=0d1117&border_radius=10&hide_border=true&title_color=35def1&text_color=ffffff&icon_color=35def1)](https://github.com/anuraghazra/github-readme-stats)
+[![KrazyManJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrazyManJ&show_icons=true&bg_color=0d1117&border_radius=10&hide_border=true&title_color=35def1&text_color=ffffff&icon_color=35def1)](https://github.com/KrazyManJ)
 
-![Languages:](https://github-readme-stats.vercel.app/api/top-langs/?username=krazymanj&layout=compact&bg_color=0d1117&border_radius=10&hide_border=true&card_width=450&custom_title=Languages%20that%20i%20have%20touched%3A&title_color=35def1&text_color=ffffff)
+[![Languages:](https://github-readme-stats.vercel.app/api/top-langs/?username=krazymanj&layout=compact&bg_color=0d1117&border_radius=10&hide_border=true&card_width=450&custom_title=Languages%20that%20i%20have%20touched%3A&title_color=35def1&text_color=ffffff)](https://github.com/KrazyManJ)
 
 ## 📌 Pinned
 
