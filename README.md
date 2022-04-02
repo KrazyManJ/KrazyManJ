@@ -1,12 +1,19 @@
 <p align=center><img width=600 src="https://raw.githubusercontent.com/KrazyManJ/KrazyManJ/main/krazymanj_title.svg"></p>
 
-<p align=center >Back-end developer mainly making code to make my life easier. Also i am into minecraft development!</p>
+<p align=center >Backend developer mainly making code to make my life easier. Love to use Java, JavaScript, Python or Typescript. Also i am into minecraft development!</p>
 
 ***
 
 <a href="https://github.com/KrazyManJ">
   <img width=800 src="https://github-readme-stats.vercel.app/api/top-langs/?username=krazymanj&layout=compact&bg_color=0d1117&border_radius=10&hide_border=true&card_width=600&custom_title=Languages%20that%20i%20have%20touched%3A&title_color=70D7FF&text_color=ffffff&langs_count=10">
 </a>
+
+
+<details align=center>
+    <summary>Language notes</summary>
+    AppleScript = Minecraft Skript <i>(Changed tag for Syntax Highlighting)</i>
+</details>
+
 
 ***
 
