@@ -1,4 +1,4 @@
-<p align=center><img width=600 src="/svgs/title.svg" alt="krazymanj" title="KrazyManJ"></p>
+<p align=center><img width=600 src="/svgs/title.svg" alt="KrazyManJ" title="KrazyManJ"></p>
 
 <p align=center >Backend developer mainly making code to make my life easier. Love to use Java, JavaScript, Python or Typescript. Also i am into minecraft development!</p>
 
@@ -17,7 +17,7 @@
 
 ***
 
-<p align=center><img width=400 src="/svgs/tools.svg" alt="krazymanj" title="KrazyManJ"></p>
+<p align=center><img width=400 src="/svgs/tools.svg" alt="Tools that i use" title="Tools that i use"></p>
 
 <div width=80% align=center>
   <td>
@@ -32,7 +32,7 @@
 
 ***
 
-<p align=center><img width=200 src="/svgs/pinned.svg" alt="krazymanj" title="KrazyManJ"></p>
+<p align=center><img width=200 src="/svgs/pinned.svg" alt="Pinned" title="Pinned"></p>
 
 <p width=100% align=center>
   <a href=https://github.com/KrazyManJ/Expansion-krazy><img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=Expansion-krazy&bg_color=07090d&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8b949e"></a>
