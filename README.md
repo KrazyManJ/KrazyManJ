@@ -5,7 +5,7 @@
 ***
 
 <a href="https://github.com/KrazyManJ">
-  <img width=800 src="https://github-readme-stats.vercel.app/api/top-langs/?username=krazymanj&layout=compact&bg_color=0d1117&border_radius=10&hide_border=true&card_width=600&custom_title=Languages%20that%20i%20have%20touched%3A&title_color=70D7FF&text_color=ffffff&langs_count=10">
+  <img width=1500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=krazymanj&layout=compact&bg_color=0d1117&border_radius=10&hide_border=true&card_width=600&custom_title=Languages%20that%20i%20have%20touched%3A&title_color=70D7FF&text_color=ffffff&langs_count=10">
 </a>
 
 
@@ -17,17 +17,46 @@
 
 ***
 
-## 📌 Pinned
+<h2 align=center>📌 Pinned 📌</h2>
 
-[![KrazyHackerTypingGame](https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=KrazyHackerTypingGame&bg_color=07090d&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8b949e)](https://github.com/KrazyManJ/KrazyHackerTypingGame)
-[![Github-Readme-Card-Generator](https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=Github-Readme-Card-Generator&bg_color=07090d&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8b949e)](https://github.com/KrazyManJ/Github-Readme-Card-Generator)
-[![FabLab-Competition](https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=FabLab-Competition&bg_color=07090d&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8b949e)](https://github.com/KrazyManJ/FabLab-Competition)
-[![KrazyChatManager](https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=KrazyChatManager&bg_color=07090d&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8b949e)](https://github.com/KrazyManJ/KrazyChatManager)
-[![KrazyComponentAPI](https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=krazycomponentapi&bg_color=07090d&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8b949e)](https://github.com/KrazyManJ/KrazyComponentAPI)
-[![KrazyBungee](https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=krazybungee&bg_color=07090d&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8b949e)](https://github.com/KrazyManJ/KrazyBungee)
-[![KrazyMention](https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=krazymention&bg_color=07090d&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8b949e)](https://github.com/KrazyManJ/KrazyMention)
-[![KrazyCommandClipboard](https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=krazycommandclipboard&bg_color=07090d&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8b949e)](https://github.com/KrazyManJ/KrazyCommandClipboard)
-[![KrazyHeads](https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=krazyheads&bg_color=07090d&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8b949e)](https://github.com/KrazyManJ/KrazyHeads)
-[![KrazyChatFilter](https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=krazychatfilter&bg_color=07090d&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8b949e)](https://github.com/KrazyManJ/KrazyChatFilter)
-[![KrazyBoard](https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=KrazyBoard&bg_color=07090d&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8b949e)](https://github.com/KrazyManJ/KrazyBoard)
-[![KrazyBossBarAPI](https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=krazybossbarapi&bg_color=07090d&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8b949e)](https://github.com/KrazyManJ/KrazyBossBarAPI)
+<p width=100% align=center>
+  <a href=https://github.com/KrazyManJ/Expansion-krazy>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=Expansion-krazy&bg_color=07090d&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8b949e">
+  </a>
+  <a href=https://github.com/KrazyManJ/FabLab-Competition>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=FabLab-Competition&bg_color=07090d&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8b949e">
+  </a>
+  <a href=https://github.com/KrazyManJ/Github-Readme-Card-Generator>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=Github-Readme-Card-Generator&bg_color=07090d&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8b949e">
+  </a>
+  <a href=https://github.com/KrazyManJ/KrazyBoard>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=KrazyBoard&bg_color=07090d&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8b949e">
+  </a>
+  <a href=https://github.com/KrazyManJ/KrazyBossBarAPI>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=KrazyBossBarAPI&bg_color=07090d&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8b949e">
+  </a>
+  <a href=https://github.com/KrazyManJ/KrazyBungee>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=KrazyBungee&bg_color=07090d&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8b949e">
+  </a>
+  <a href=https://github.com/KrazyManJ/KrazyChatFilter>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=KrazyChatFilter&bg_color=07090d&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8b949e">
+  </a>
+  <a href=https://github.com/KrazyManJ/KrazyChatManager>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=KrazyChatManager&bg_color=07090d&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8b949e">
+  </a>
+  <a href=https://github.com/KrazyManJ/KrazyCommandClipboard>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=KrazyCommandClipboard&bg_color=07090d&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8b949e">
+  </a>
+  <a href=https://github.com/KrazyManJ/KrazyComponentAPI>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=KrazyComponentAPI&bg_color=07090d&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8b949e">
+  </a>
+  <a href=https://github.com/KrazyManJ/KrazyHackerTypingGame>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=KrazyHackerTypingGame&bg_color=07090d&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8b949e">
+  </a>
+  <a href=https://github.com/KrazyManJ/KrazyHeads>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=KrazyHeads&bg_color=07090d&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8b949e">
+  </a>
+  <a href=https://github.com/KrazyManJ/KrazyMention>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=KrazyMention&bg_color=07090d&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8b949e">
+  </a>
+</p>
