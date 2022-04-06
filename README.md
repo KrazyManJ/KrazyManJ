@@ -49,3 +49,5 @@
   <a href=https://github.com/KrazyManJ/KrazyHeads><img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=KrazyHeads&bg_color=07090d&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8b949e"></a>
   <a href=https://github.com/KrazyManJ/KrazyMention><img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=KrazyMention&bg_color=07090d&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8b949e"></a>
 </p>
+
+***  
