@@ -18,7 +18,6 @@
   <a href=https://github.com/KrazyManJ/XMLTK><img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=XMLTK&bg_color=07090d&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8b949e"></a>
   <a href=https://github.com/KrazyManJ/VSCode-Python-Package><img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=VSCode-Python-Package&bg_color=07090d&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8b949e"></a>
   <a href=https://github.com/KrazyManJ/FabLab-Competition><img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=FabLab-Competition&bg_color=07090d&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8b949e"></a>
-  <a href=https://github.com/KrazyManJ/Github-Readme-Card-Generator><img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=Github-Readme-Card-Generator&bg_color=07090d&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8b949e"></a>
 </p>
 
 ***  
