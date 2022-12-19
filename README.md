@@ -15,6 +15,8 @@
 <p align=center><img width=200 src="/svgs/pinned.svg" alt="Pinned" title="Pinned"></p>
 
 <p width=100% align=center>
+  <a href=https://github.com/KrazyManJ/ClickMapper><img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=ClickMapper&bg_color=07090d&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8b949e"></a>
+  <a href=https://github.com/KrazyManJ/obsidian-keyshots><img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=obsidian-keyshots&bg_color=07090d&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8b949e"></a>
   <a href=https://github.com/KrazyManJ/Uniter><img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=Uniter&bg_color=07090d&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8b949e"></a>
   <a href=https://github.com/KrazyManJ/XMLTK><img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=XMLTK&bg_color=07090d&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8b949e"></a>
   <a href=https://github.com/KrazyManJ/VSCode-Python-Package><img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=VSCode-Python-Package&bg_color=07090d&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8b949e"></a>
