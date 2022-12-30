@@ -14,22 +14,33 @@ class RepoLink:
         args.insert(0,f"repo={reponame}")
         args.insert(0,f"username=krazymanj")
         return f'https://github-readme-stats.vercel.app/api/pin/?{"&".join(args)}'
-        
 
 link = RepoLink()\
     .add_attr("bg_color","07090D")\
     .add_attr("hide_border","true")\
     .add_attr("border_radius","10")\
     .add_attr("title_color","70D7FF")\
-    .add_attr("text_color","8B949E")
+    .add_attr("text_color","8B949E")\
+    .add_attr("cache_seconds","7200")
 
-response = requests.get("https://api.github.com/users/krazymanj/repos")
-data = json.loads(response.text)
+def gen_strict_pinned(pinned: list[str]):
+    html = "<p width=100% align=center>"
+    for node in pinned:
+        html += f'\n    <a href=https://github.com/KrazyManJ/{node}><img src="{link.build(node)}"></a>'
+    html += "\n</p>"
+    return html
 
-html = "<p width=100% align=center>"
-for node in data:
-    if node["name"] != "KrazyManJ":
-        html += f"""
-  <a href={node["html_url"]}><img src="{link.build(node["name"])}"></a>"""
-html += "\n</p>"
-print(html)
+
+def gen_pinned():
+    
+
+    response = requests.get("https://api.github.com/users/krazymanj/repos")
+    data = json.loads(response.text)
+
+    html = "<p width=100% align=center>"
+    for node in data:
+        if node["name"] != "KrazyManJ" and not node["fork"]:
+            html += f"""
+    <a href={node["html_url"]}><img src="{link.build(node["name"])}"></a>"""
+    html += "\n</p>"
+    return html

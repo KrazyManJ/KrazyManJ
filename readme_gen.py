@@ -1,3 +1,7 @@
+import pyvscode
+from scripts.pinned_generator import *
+
+open("README.md","w").write(f"""
 <p align=center><img width=600 src="svgs/title.svg" alt="KrazyManJ" title="KrazyManJ"></p>
 
 <p align=center >
@@ -14,9 +18,9 @@
 
 <p align=center><img width=200 src="svgs/pinned.svg" alt="Pinned" title="Pinned"></p>
 
-<p width=100% align=center>
-    <a href=https://github.com/KrazyManJ/obsidian-keyshots><img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=obsidian-keyshots&bg_color=07090D&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8B949E&cache_seconds=7200"></a>
-    <a href=https://github.com/KrazyManJ/pyvscode><img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=pyvscode&bg_color=07090D&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8B949E&cache_seconds=7200"></a>
-</p>
+{gen_strict_pinned(["obsidian-keyshots","pyvscode"])}
 
 ***
+""".strip())
+
+pyvscode.open("README.md")
