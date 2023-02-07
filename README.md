@@ -17,6 +17,7 @@
 <p width=100% align=center>
     <a href=https://github.com/KrazyManJ/obsidian-keyshots><img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=obsidian-keyshots&bg_color=07090D&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8B949E&cache_seconds=7200"></a>
     <a href=https://github.com/KrazyManJ/pyvscode><img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=pyvscode&bg_color=07090D&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8B949E&cache_seconds=7200"></a>
+    <a href=https://github.com/KrazyManJ/uniter><img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=uniter&bg_color=07090D&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8B949E&cache_seconds=7200"></a>
 </p>
 
 ***
