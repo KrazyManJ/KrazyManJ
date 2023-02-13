@@ -4,6 +4,8 @@
   Backend developer mainly making code to make his life easier, and also make easier life for other devs. Love to use Python, JS or TS.
 </p>
 
+<h3 align=center>🌟 From 4th February - Daily Commit Day 🌟</h3>
+
 ***
 
 <a href="https://github.com/KrazyManJ">
@@ -18,6 +20,7 @@
     <a href=https://github.com/KrazyManJ/obsidian-keyshots><img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=obsidian-keyshots&bg_color=07090D&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8B949E&cache_seconds=7200"></a>
     <a href=https://github.com/KrazyManJ/pyvscode><img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=pyvscode&bg_color=07090D&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8B949E&cache_seconds=7200"></a>
     <a href=https://github.com/KrazyManJ/uniter><img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=uniter&bg_color=07090D&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8B949E&cache_seconds=7200"></a>
+    <a href=https://github.com/KrazyManJ/templatoron><img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=templatoron&bg_color=07090D&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8B949E&cache_seconds=7200"></a>
 </p>
 
 ***

@@ -18,7 +18,7 @@ open("README.md","w").write(f"""
 
 <p align=center><img width=200 src="svgs/pinned.svg" alt="Pinned" title="Pinned"></p>
 
-{gen_strict_pinned(["obsidian-keyshots","pyvscode","uniter"])}
+{gen_strict_pinned(["obsidian-keyshots","pyvscode","uniter","templatoron"])}
 
 ***
 """.strip())
