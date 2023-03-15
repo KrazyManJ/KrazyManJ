@@ -4,8 +4,6 @@
   Backend developer mainly making code to make his life easier, and also make easier life for other devs. Love to use Python, JS or TS.
 </p>
 
-<h3 align=center>🌟 From 4th February - Daily Commit Day 🌟</h3>
-
 ***
 
 <a href="https://github.com/KrazyManJ">
@@ -14,13 +12,20 @@
 
 ***
 
-<p align=center><img width=200 src="svgs/pinned.svg" alt="Pinned" title="Pinned"></p>
+<h2 align=center>Main Projects</h2>
 
 <p width=100% align=center>
-    <a href=https://github.com/KrazyManJ/obsidian-keyshots><img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=obsidian-keyshots&bg_color=07090D&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8B949E&cache_seconds=7200"></a>
-    <a href=https://github.com/KrazyManJ/pyvscode><img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=pyvscode&bg_color=07090D&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8B949E&cache_seconds=7200"></a>
-    <a href=https://github.com/KrazyManJ/uniter><img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=uniter&bg_color=07090D&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8B949E&cache_seconds=7200"></a>
     <a href=https://github.com/KrazyManJ/templatoron><img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=templatoron&bg_color=07090D&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8B949E&cache_seconds=7200"></a>
+    <a href=https://github.com/KrazyManJ/obsidian-keyshots><img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=obsidian-keyshots&bg_color=07090D&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8B949E&cache_seconds=7200"></a>
+</p>
+
+<h2 align=center>Python Packages</h2>
+
+<p width=100% align=center>
+    <a href=https://github.com/KrazyManJ/pyvscode><img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=pyvscode&bg_color=07090D&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8B949E&cache_seconds=7200"></a>
+    <a href=https://github.com/KrazyManJ/pyjetbrains><img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=pyjetbrains&bg_color=07090D&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8B949E&cache_seconds=7200"></a>
+    <a href=https://github.com/KrazyManJ/uniter><img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=uniter&bg_color=07090D&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8B949E&cache_seconds=7200"></a>
+    <a href=https://github.com/KrazyManJ/XMLTK><img src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&repo=XMLTK&bg_color=07090D&hide_border=true&border_radius=10&title_color=70D7FF&text_color=8B949E&cache_seconds=7200"></a>
 </p>
 
 ***

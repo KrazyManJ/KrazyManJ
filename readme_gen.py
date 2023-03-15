@@ -1,4 +1,3 @@
-import pyvscode
 from scripts.pinned_generator import *
 
 open("README.md","w").write(f"""
@@ -16,11 +15,13 @@ open("README.md","w").write(f"""
 
 ***
 
-<p align=center><img width=200 src="svgs/pinned.svg" alt="Pinned" title="Pinned"></p>
+<h2 align=center>Main Projects</h2>
 
-{gen_strict_pinned(["obsidian-keyshots","pyvscode","uniter","templatoron"])}
+{gen_strict_pinned(["templatoron","obsidian-keyshots"])}
+
+<h2 align=center>Python Packages</h2>
+
+{gen_strict_pinned(["pyvscode","pyjetbrains","uniter","XMLTK"])}
 
 ***
 """.strip())
-
-pyvscode.open("README.md")
