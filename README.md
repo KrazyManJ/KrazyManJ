@@ -1,4 +1,4 @@
-<p align=center><img width=1500 src="svgs/title.svg" alt="KrazyManJ" title="KrazyManJ"></p>
+<p align=center><img width=600 src="svgs/title.svg" alt="KrazyManJ" title="KrazyManJ"></p>
 
 <p align=center >
   Backend developer mainly making code to make his life easier, and also make easier life for other devs. Love to use Python, JS or TS.
