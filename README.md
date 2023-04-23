@@ -12,6 +12,14 @@
 
 ***
 
+<p align=center>
+    <a href="https://github.com/KrazyManJ">
+        <img src="https://github-profile-trophy.vercel.app/?username=KrazyManJ&no-frame=true&no-bg=true&theme=nord">
+    </a>
+</p>
+
+***
+
 <h2 align=center>Main Projects</h2>
 
 <p width=100% align=center>
