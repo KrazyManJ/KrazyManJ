@@ -14,7 +14,7 @@
 
 <p align=center>
     <a href="https://github.com/KrazyManJ">
-        <img src="https://github-profile-trophy.vercel.app/?username=KrazyManJ&no-frame=true&no-bg=true&theme=nord">
+        <img width=1500 src="https://github-profile-trophy.vercel.app/?username=KrazyManJ&no-frame=true&no-bg=true&theme=nord">
     </a>
 </p>
 
