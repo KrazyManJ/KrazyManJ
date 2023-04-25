@@ -12,9 +12,9 @@ LANG_DISPLAY = LinkBuilder("https://github-readme-stats.vercel.app/api/top-langs
     "layout": "compact",
     "bg_color": "0d1117",
     "border_radius": 10,
-    "hide_border": True,
+    "hide_border": "true",
     "card_width": 600,
-    "hide_title": True,
+    "hide_title": "true",
     "title_color": "70D7FF",
     "text_color": "ffffff",
     "langs_count": 10
@@ -22,8 +22,8 @@ LANG_DISPLAY = LinkBuilder("https://github-readme-stats.vercel.app/api/top-langs
 
 TROPHIES = LinkBuilder("https://github-profile-trophy.vercel.app/", {
     "username": "krazymanj",
-    "no-frame": True,
-    "no-bg": True,
+    "no-frame": "true",
+    "no-bg": "true",
     "theme": "onestar"
 })
 
