@@ -1,5 +1,6 @@
 import re
 import urllib.parse
+
 from bs4 import BeautifulSoup
 
 
@@ -40,6 +41,7 @@ def RepoLink(reponame: str):
         "cache_seconds": 7200
     })
 
+
 def RepoPinList(repos: list[str]):
     def prettify_indent(val, encoding=None, formatter="minimal", indent_width=4):
         return re.compile(r'^(\s*)', re.MULTILINE).sub(r'\1' * indent_width, val)
@@ -47,11 +49,11 @@ def RepoPinList(repos: list[str]):
     content = "<p width=100% align=center>"
     for repo in repos:
         content += f"<a href=https://github.com/KrazyManJ/{repo}><img src={RepoLink(repo)} alt={repo}></a>"
-    return prettify_indent(BeautifulSoup(content + "</p>","html.parser").prettify())
+    return prettify_indent(BeautifulSoup(content + "</p>", "html.parser").prettify())
 
 
-open("README.md", "w").write(
-f"""
+open("README.md", "w", encoding="UTF-8").write(
+    f"""
 <p align=center>
     <img width=600 src="svgs/title.svg" alt="KrazyManJ" title="KrazyManJ">
 </p>
@@ -76,13 +78,21 @@ f"""
 
 ***
 
-<h2 align=center>Main Projects</h2>
+<h2 align=center>👉🏼📌 Main Projects 👉🏼📌</h2>
 
 {RepoPinList(["templatoron", "obsidian-keyshots"])}
 
-<h2 align=center>Python Packages</h2>
+<h2 align=center>📦 Python Packages 📦</h2>
 
 {RepoPinList(["pyvscode", "pyjetbrains", "uniter", "XMLTK"])}
+
+<h2 align=center>🎓 School Projects 🎓</h2>
+
+{RepoPinList(["final-programming-project", "Curriculum-Challenges"])}
+
+<h2 align=center>⏭ Other Projects ⏭</h2>
+
+{RepoPinList(["krazymanj.github.io", "fablab-competition-spring-2022"])}
 
 ***
 """.strip())

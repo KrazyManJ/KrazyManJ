@@ -22,7 +22,7 @@
 
 ***
 
-<h2 align=center>Main Projects</h2>
+<h2 align=center>👉🏼📌 Main Projects 👉🏼📌</h2>
 
 <p align="center" width="100%">
     <a href="https://github.com/KrazyManJ/templatoron">
@@ -33,7 +33,7 @@
     </a>
 </p>
 
-<h2 align=center>Python Packages</h2>
+<h2 align=center>📦 Python Packages 📦</h2>
 
 <p align="center" width="100%">
     <a href="https://github.com/KrazyManJ/pyvscode">
@@ -47,6 +47,28 @@
     </a>
     <a href="https://github.com/KrazyManJ/XMLTK">
         <img alt="XMLTK" src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&amp;repo=XMLTK&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
+    </a>
+</p>
+
+<h2 align=center>🎓 School Projects 🎓</h2>
+
+<p align="center" width="100%">
+    <a href="https://github.com/KrazyManJ/final-programming-project">
+        <img alt="final-programming-project" src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&amp;repo=final-programming-project&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
+    </a>
+    <a href="https://github.com/KrazyManJ/Curriculum-Challenges">
+        <img alt="Curriculum-Challenges" src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&amp;repo=Curriculum-Challenges&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
+    </a>
+</p>
+
+<h2 align=center>⏭ Other Projects ⏭</h2>
+
+<p align="center" width="100%">
+    <a href="https://github.com/KrazyManJ/krazymanj.github.io">
+        <img alt="krazymanj.github.io" src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&amp;repo=krazymanj.github.io&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
+    </a>
+    <a href="https://github.com/KrazyManJ/fablab-competition-spring-2022">
+        <img alt="fablab-competition-spring-2022" src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&amp;repo=fablab-competition-spring-2022&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
     </a>
 </p>
 
