@@ -67,8 +67,8 @@
     <a href="https://github.com/KrazyManJ/krazymanj.github.io">
         <img alt="krazymanj.github.io" src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&amp;repo=krazymanj.github.io&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
     </a>
-    <a href="https://github.com/KrazyManJ/fablab-competition-spring-2022">
-        <img alt="fablab-competition-spring-2022" src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&amp;repo=fablab-competition-spring-2022&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
+    <a href="https://github.com/KrazyManJ/fablab-spring-2022">
+        <img alt="fablab-spring-2022" src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&amp;repo=fablab-spring-2022&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
     </a>
 </p>
 
