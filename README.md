@@ -9,14 +9,20 @@
 ***
 
 <a href="https://github.com/KrazyManJ">
-    <img width=1500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=krazymanj&layout=compact&bg_color=0d1117&border_radius=10&hide_border=true&card_width=600&hide_title=true&title_color=70D7FF&text_color=ffffff&langs_count=10" alt="top-languages">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krazymanj&layout=compact&bg_color=0d1117&border_radius=10&hide_border=true&card_width=600&hide_title=true&title_color=70D7FF&text_color=ffffff&langs_count=10" alt="top-languages">
+</a>
+
+***
+
+<a href="https://github.com/KrazyManJ">
+    <img width="100%" src="https://streak-stats.demolab.com?user=KrazyManJ&hide_border=true&border_radius=10&card_width=800&background=EBEBEB00&ring=2397EB&fire=06B9EB&dates=C0C0C0&currStreakNum=00DCEB&sideNums=B8B8B8&currStreakLabel=EBEBEB&sideLabels=8D8D8D" alt="top-languages">
 </a>
 
 ***
 
 <p align=center>
     <a href="https://github.com/KrazyManJ">
-        <img width=1500 src="https://github-profile-trophy.vercel.app/?username=krazymanj&no-frame=true&no-bg=true&theme=onestar" alt="trophies">
+        <img width="100%" src="https://github-profile-trophy.vercel.app/?username=krazymanj&no-frame=true&no-bg=true&theme=onestar" alt="trophies">
     </a>
 </p>
 

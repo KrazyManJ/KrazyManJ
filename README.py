@@ -20,6 +20,21 @@ LANG_DISPLAY = LinkBuilder("https://github-readme-stats.vercel.app/api/top-langs
     "text_color": "ffffff",
     "langs_count": 10
 })
+#
+STREAK_DISPLAY = LinkBuilder("https://streak-stats.demolab.com", {
+    "user": "KrazyManJ",
+    "hide_border": "true",
+    "border_radius": 10,
+    "card_width": 800,
+    "background": "EBEBEB00",
+    "ring": "2397EB",
+    "fire": "06B9EB",
+    "dates": "C0C0C0",
+    "currStreakNum": "00DCEB",
+    "sideNums": "B8B8B8",
+    "currStreakLabel": "EBEBEB",
+    "sideLabels": "8D8D8D"
+})
 
 TROPHIES = LinkBuilder("https://github-profile-trophy.vercel.app/", {
     "username": "krazymanj",
@@ -65,14 +80,20 @@ open("README.md", "w", encoding="UTF-8").write(
 ***
 
 <a href="https://github.com/KrazyManJ">
-    <img width=1500 src="{LANG_DISPLAY}" alt="top-languages">
+    <img width="100%" src="{LANG_DISPLAY}" alt="top-languages">
+</a>
+
+***
+
+<a href="https://github.com/KrazyManJ">
+    <img width="100%" src="{STREAK_DISPLAY}" alt="top-languages">
 </a>
 
 ***
 
 <p align=center>
     <a href="https://github.com/KrazyManJ">
-        <img width=1500 src="{TROPHIES}" alt="trophies">
+        <img width="100%" src="{TROPHIES}" alt="trophies">
     </a>
 </p>
 
