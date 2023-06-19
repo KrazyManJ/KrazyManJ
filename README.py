@@ -109,7 +109,7 @@ open("README.md", "w", encoding="UTF-8").write(
 
 <h2 align=center>🎓 School Projects 🎓</h2>
 
-{RepoPinList(["final-programming-project", "Curriculum-Challenges"])}
+{RepoPinList(["final-programming-project", "Curriculum-Challenges", "eshop-sneakeran"])}
 
 <h2 align=center>⏭ Other Projects ⏭</h2>
 

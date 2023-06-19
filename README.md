@@ -65,6 +65,9 @@
     <a href="https://github.com/KrazyManJ/Curriculum-Challenges">
         <img alt="Curriculum-Challenges" src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&amp;repo=Curriculum-Challenges&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
     </a>
+    <a href="https://github.com/KrazyManJ/eshop-sneakeran">
+        <img alt="eshop-sneakeran" src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&amp;repo=eshop-sneakeran&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
+    </a>
 </p>
 
 <h2 align=center>⏭ Other Projects ⏭</h2>
