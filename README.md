@@ -37,6 +37,9 @@
     <a href="https://github.com/KrazyManJ/obsidian-keyshots">
         <img alt="obsidian-keyshots" src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&amp;repo=obsidian-keyshots&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
     </a>
+    <a href="https://github.com/KrazyManJ/rainmeter-dynamic-island">
+        <img alt="rainmeter-dynamic-island" src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&amp;repo=rainmeter-dynamic-island&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
+    </a>
 </p>
 
 <h2 align=center>📦 Python Packages 📦</h2>

@@ -101,7 +101,7 @@ open("README.md", "w", encoding="UTF-8").write(
 
 <h2 align=center>👉🏼📌 Main Projects 👉🏼📌</h2>
 
-{RepoPinList(["templatoron", "obsidian-keyshots"])}
+{RepoPinList(["templatoron", "obsidian-keyshots", "rainmeter-dynamic-island"])}
 
 <h2 align=center>📦 Python Packages 📦</h2>
 
