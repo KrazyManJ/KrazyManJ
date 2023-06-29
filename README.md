@@ -2,8 +2,20 @@
     <img width=600 src="svgs/title.svg" alt="KrazyManJ" title="KrazyManJ">
 </p>
 
-<p align=center >
-  Backend developer mainly making code to make his life easier, and also make easier life for other devs. Love to use Python, JS or TS.
+<p align=center>
+  Hi, my name is Jaroslav Korčák, known as KrazyManJ on the Internet, I am fullstack developer mainly making code to make his, and others devs lifes easier.
+</p>
+
+<h3 align=center>🧱 Frameworks 🧱</h3>
+
+<p align=center>
+    <img src="https://skillicons.dev/icons?theme=dark&i=react%2Ctailwind%2Cdotnet%2Cqt">
+</p>
+
+<h3 align=center>🔨 Tools 🔨</h3>
+
+<p align=center>
+    <img src="https://skillicons.dev/icons?theme=dark&perline=6&i=idea%2Cvscode%2Cfigma%2Cgit%2Cgithub%2Cregex%2Cgradle%2Cmaven%2Cnodejs%2Cwordpress%2Cdiscord%2Clinkedin">
 </p>
 
 ***
@@ -15,7 +27,7 @@
 ***
 
 <a href="https://github.com/KrazyManJ">
-    <img width="100%" src="https://streak-stats.demolab.com?user=KrazyManJ&hide_border=true&border_radius=10&card_width=800&background=EBEBEB00&ring=2397EB&fire=06B9EB&dates=C0C0C0&currStreakNum=00DCEB&sideNums=B8B8B8&currStreakLabel=EBEBEB&sideLabels=8D8D8D" alt="top-languages">
+    <img width="100%" src="https://streak-stats.demolab.com?user=KrazyManJ&hide_border=true&border_radius=10&card_width=800&background=EBEBEB00&ring=2397EB&fire=06B9EB&dates=C0C0C0&currStreakNum=00DCEB&sideNums=B8B8B8&currStreakLabel=EBEBEB&sideLabels=8D8D8D" alt="github-stats">
 </a>
 
 ***

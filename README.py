@@ -43,6 +43,34 @@ TROPHIES = LinkBuilder("https://github-profile-trophy.vercel.app/", {
     "theme": "onestar"
 })
 
+FRAMEWORKS_ICONS = LinkBuilder("https://skillicons.dev/icons", {
+    "theme": "dark",
+    "i": ",".join([
+        "react",
+        "tailwind",
+        "dotnet",
+        "qt"
+    ])
+})
+
+TOOLS_ICONS = LinkBuilder("https://skillicons.dev/icons", {
+    "theme": "dark",
+    "perline": 6,
+    "i": ",".join([
+        "idea",
+        "vscode",
+        "figma",
+        "git",
+        "github",
+        "regex",
+        "gradle",
+        "maven",
+        "nodejs",
+        "wordpress",
+        "discord",
+        "linkedin",
+    ])
+})
 
 def RepoLink(reponame: str):
     return LinkBuilder("https://github-readme-stats.vercel.app/api/pin/", {
@@ -73,8 +101,20 @@ open("README.md", "w", encoding="UTF-8").write(
     <img width=600 src="svgs/title.svg" alt="KrazyManJ" title="KrazyManJ">
 </p>
 
-<p align=center >
-  Backend developer mainly making code to make his life easier, and also make easier life for other devs. Love to use Python, JS or TS.
+<p align=center>
+  Hi, my name is Jaroslav Korčák, known as KrazyManJ on the Internet, I am fullstack developer mainly making code to make his, and others devs lifes easier.
+</p>
+
+<h3 align=center>🧱 Frameworks 🧱</h3>
+
+<p align=center>
+    <img src="{FRAMEWORKS_ICONS}">
+</p>
+
+<h3 align=center>🔨 Tools 🔨</h3>
+
+<p align=center>
+    <img src="{TOOLS_ICONS}">
 </p>
 
 ***
@@ -86,7 +126,7 @@ open("README.md", "w", encoding="UTF-8").write(
 ***
 
 <a href="https://github.com/KrazyManJ">
-    <img width="100%" src="{STREAK_DISPLAY}" alt="top-languages">
+    <img width="100%" src="{STREAK_DISPLAY}" alt="github-stats">
 </a>
 
 ***
