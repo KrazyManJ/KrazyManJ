@@ -49,7 +49,8 @@ FRAMEWORKS_ICONS = LinkBuilder("https://skillicons.dev/icons", {
         "react",
         "tailwind",
         "dotnet",
-        "qt"
+        "qt",
+        "fastapi"
     ])
 })
 

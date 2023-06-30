@@ -9,7 +9,7 @@
 <h3 align=center>🧱 Frameworks 🧱</h3>
 
 <p align=center>
-    <img src="https://skillicons.dev/icons?theme=dark&i=react%2Ctailwind%2Cdotnet%2Cqt">
+    <img src="https://skillicons.dev/icons?theme=dark&i=react%2Ctailwind%2Cdotnet%2Cqt%2Cfastapi">
 </p>
 
 <h3 align=center>🔨 Tools 🔨</h3>
