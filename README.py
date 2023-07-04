@@ -18,7 +18,7 @@ LANG_DISPLAY = LinkBuilder("https://github-readme-stats.vercel.app/api/top-langs
     "hide_title": "true",
     "title_color": "70D7FF",
     "text_color": "ffffff",
-    "langs_count": 10
+    "langs_count": 20
 })
 #
 STREAK_DISPLAY = LinkBuilder("https://streak-stats.demolab.com", {

@@ -21,7 +21,7 @@
 ***
 
 <a href="https://github.com/KrazyManJ">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krazymanj&layout=compact&bg_color=0d1117&border_radius=10&hide_border=true&card_width=600&hide_title=true&title_color=70D7FF&text_color=ffffff&langs_count=10" alt="top-languages">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krazymanj&layout=compact&bg_color=0d1117&border_radius=10&hide_border=true&card_width=600&hide_title=true&title_color=70D7FF&text_color=ffffff&langs_count=20" alt="top-languages">
 </a>
 
 ***
