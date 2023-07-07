@@ -154,7 +154,7 @@ open("README.md", "w", encoding="UTF-8").write(
 
 <h2 align=center>⏭ Other Projects ⏭</h2>
 
-{RepoPinList(["krazymanj.github.io", "fablab-spring-2022"])}
+{RepoPinList(["KrazyEngine" ,"krazymanj.github.io", "fablab-spring-2022"])}
 
 ***
 """.strip())
