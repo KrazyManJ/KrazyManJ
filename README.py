@@ -48,6 +48,7 @@ FRAMEWORKS_ICONS = LinkBuilder("https://skillicons.dev/icons", {
     "i": ",".join([
         "react",
         "tailwind",
+        "scss",
         "dotnet",
         "qt",
         "fastapi"
