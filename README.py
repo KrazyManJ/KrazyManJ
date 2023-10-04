@@ -40,7 +40,8 @@ TROPHIES = LinkBuilder("https://github-profile-trophy.vercel.app/", {
     "username": "krazymanj",
     "no-frame": "true",
     "no-bg": "true",
-    "theme": "onestar"
+    "theme": "onestar",
+    "column": 3
 })
 
 FRAMEWORKS_ICONS = LinkBuilder("https://skillicons.dev/icons", {

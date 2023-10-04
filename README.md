@@ -34,7 +34,7 @@
 
 <p align=center>
     <a href="https://github.com/KrazyManJ">
-        <img width="100%" src="https://github-profile-trophy.vercel.app/?username=krazymanj&no-frame=true&no-bg=true&theme=onestar" alt="trophies">
+        <img width="100%" src="https://github-profile-trophy.vercel.app/?username=krazymanj&no-frame=true&no-bg=true&theme=onestar&column=3" alt="trophies">
     </a>
 </p>
 
@@ -54,6 +54,7 @@
     </a>
 </p>
 
+
 <h2 align=center>📦 Python Packages 📦</h2>
 
 <p align="center" width="100%">
@@ -71,6 +72,7 @@
     </a>
 </p>
 
+
 <h2 align=center>🎓 School Projects 🎓</h2>
 
 <p align="center" width="100%">
@@ -85,6 +87,7 @@
     </a>
 </p>
 
+
 <h2 align=center>⏭ Other Projects ⏭</h2>
 
 <p align="center" width="100%">
@@ -98,5 +101,6 @@
         <img alt="fablab-spring-2022" src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&amp;repo=fablab-spring-2022&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
     </a>
 </p>
+
 
 ***
