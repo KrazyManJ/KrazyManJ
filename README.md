@@ -34,7 +34,7 @@
 
 <p align=center>
     <a href="https://github.com/KrazyManJ">
-        <img width="100%" src="https://github-profile-trophy.vercel.app/?username=krazymanj&no-frame=true&no-bg=true&theme=onestar&column=3" alt="trophies">
+        <img width="100%" src="https://github-profile-trophy.vercel.app/?username=krazymanj&no-frame=true&no-bg=true&theme=onestar&column=5" alt="trophies">
     </a>
 </p>
 
