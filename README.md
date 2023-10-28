@@ -73,7 +73,22 @@
 </p>
 
 
-<h2 align=center>🎓 School Projects 🎓</h2>
+<h2 align=center>🎓 University Projects 🎓</h2>
+
+<p align="center" width="100%">
+    <a href="https://github.com/KrazyManJ/vyrologic">
+        <img alt="vyrologic" src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&amp;repo=vyrologic&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
+    </a>
+    <a href="https://github.com/KrazyManJ/mendel-algorithmization">
+        <img alt="mendel-algorithmization" src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&amp;repo=mendel-algorithmization&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
+    </a>
+    <a href="https://github.com/KrazyManJ/mendel-zoo-exercises">
+        <img alt="mendel-zoo-exercises" src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&amp;repo=mendel-zoo-exercises&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
+    </a>
+</p>
+
+
+<h2 align=center>🏫 Secondary School Projects 🏫</h2>
 
 <p align="center" width="100%">
     <a href="https://github.com/KrazyManJ/final-programming-project">

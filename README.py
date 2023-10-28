@@ -150,7 +150,11 @@ open("README.md", "w", encoding="UTF-8").write(
 
 {RepoPinList(["pyvscode", "pyjetbrains", "uniter", "XMLTK"])}
 
-<h2 align=center>🎓 School Projects 🎓</h2>
+<h2 align=center>🎓 University Projects 🎓</h2>
+
+{RepoPinList(["vyrologic", "mendel-algorithmization", "mendel-zoo-exercises"])}
+
+<h2 align=center>🏫 Secondary School Projects 🏫</h2>
 
 {RepoPinList(["final-programming-project", "Curriculum-Challenges", "eshop-sneakeran"])}
 
