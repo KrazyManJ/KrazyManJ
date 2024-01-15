@@ -52,6 +52,9 @@
     <a href="https://github.com/KrazyManJ/rainmeter-dynamic-island">
         <img alt="rainmeter-dynamic-island" src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&amp;repo=rainmeter-dynamic-island&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
     </a>
+    <a href="https://github.com/KrazyManJ/rainmeter-nothing-widgets">
+        <img alt="rainmeter-nothing-widgets" src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&amp;repo=rainmeter-nothing-widgets&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
+    </a>
 </p>
 
 
@@ -82,9 +85,6 @@
     <a href="https://github.com/KrazyManJ/mendel-algorithmization">
         <img alt="mendel-algorithmization" src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&amp;repo=mendel-algorithmization&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
     </a>
-    <a href="https://github.com/KrazyManJ/mendel-zoo-exercises">
-        <img alt="mendel-zoo-exercises" src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&amp;repo=mendel-zoo-exercises&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
-    </a>
 </p>
 
 
@@ -108,9 +108,6 @@
 <p align="center" width="100%">
     <a href="https://github.com/KrazyManJ/KrazyEngine">
         <img alt="KrazyEngine" src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&amp;repo=KrazyEngine&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
-    </a>
-    <a href="https://github.com/KrazyManJ/krazymanj.github.io">
-        <img alt="krazymanj.github.io" src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&amp;repo=krazymanj.github.io&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
     </a>
     <a href="https://github.com/KrazyManJ/fablab-spring-2022">
         <img alt="fablab-spring-2022" src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&amp;repo=fablab-spring-2022&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>

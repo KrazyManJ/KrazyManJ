@@ -144,7 +144,7 @@ open("README.md", "w", encoding="UTF-8").write(
 
 <h2 align=center>👉🏼📌 Main Projects 👉🏼📌</h2>
 
-{RepoPinList(["templatoron", "obsidian-keyshots", "rainmeter-dynamic-island"])}
+{RepoPinList(["templatoron", "obsidian-keyshots", "rainmeter-dynamic-island", "rainmeter-nothing-widgets"])}
 
 <h2 align=center>📦 Python Packages 📦</h2>
 
@@ -152,7 +152,7 @@ open("README.md", "w", encoding="UTF-8").write(
 
 <h2 align=center>🎓 University Projects 🎓</h2>
 
-{RepoPinList(["vyrologic", "mendel-algorithmization", "mendel-zoo-exercises"])}
+{RepoPinList(["vyrologic", "mendel-algorithmization"])}
 
 <h2 align=center>🏫 Secondary School Projects 🏫</h2>
 
@@ -160,7 +160,7 @@ open("README.md", "w", encoding="UTF-8").write(
 
 <h2 align=center>⏭ Other Projects ⏭</h2>
 
-{RepoPinList(["KrazyEngine" ,"krazymanj.github.io", "fablab-spring-2022"])}
+{RepoPinList(["KrazyEngine", "fablab-spring-2022"])}
 
 ***
 """.strip())
