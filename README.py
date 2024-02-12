@@ -152,7 +152,7 @@ open("README.md", "w", encoding="UTF-8").write(
 
 <h2 align=center>🎓 University Projects 🎓</h2>
 
-{RepoPinList(["vyrologic", "mendel-algorithmization"])}
+{RepoPinList(["luminary" ,"vyrologic", "mendel-algorithmization"])}
 
 <h2 align=center>🏫 Secondary School Projects 🏫</h2>
 
