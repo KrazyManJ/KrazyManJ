@@ -152,10 +152,10 @@ open("README.md", "w", encoding="UTF-8").write(
 
 <h2 align=center>🎓 University Projects 🎓</h2>
 
-{RepoPinList(["luminary" ,"vyrologic", "gitliv", "haby"])}
+{RepoPinList(["luminary" ,"vyrologic", "medieval-tactics", "jolt", "gitliv", "haby"])}
 
 <h2 align=center>🏫 Secondary School Projects 🏫</h2>
-
+s
 {RepoPinList(["final-programming-project", "Curriculum-Challenges", "eshop-sneakeran"])}
 
 <h2 align=center>⏭ Other Projects ⏭</h2>

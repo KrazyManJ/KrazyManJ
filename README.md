@@ -85,6 +85,12 @@
     <a href="https://github.com/KrazyManJ/vyrologic">
         <img alt="vyrologic" src="https://github-readme-stats-one-virid-43.vercel.app/api/pin/?username=krazymanj&amp;repo=vyrologic&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
     </a>
+    <a href="https://github.com/KrazyManJ/medieval-tactics">
+        <img alt="medieval-tactics" src="https://github-readme-stats-one-virid-43.vercel.app/api/pin/?username=krazymanj&amp;repo=medieval-tactics&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
+    </a>
+    <a href="https://github.com/KrazyManJ/jolt">
+        <img alt="jolt" src="https://github-readme-stats-one-virid-43.vercel.app/api/pin/?username=krazymanj&amp;repo=jolt&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
+    </a>
     <a href="https://github.com/KrazyManJ/gitliv">
         <img alt="gitliv" src="https://github-readme-stats-one-virid-43.vercel.app/api/pin/?username=krazymanj&amp;repo=gitliv&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
     </a>
@@ -95,7 +101,7 @@
 
 
 <h2 align=center>🏫 Secondary School Projects 🏫</h2>
-
+s
 <p align="center" width="100%">
     <a href="https://github.com/KrazyManJ/final-programming-project">
         <img alt="final-programming-project" src="https://github-readme-stats-one-virid-43.vercel.app/api/pin/?username=krazymanj&amp;repo=final-programming-project&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
