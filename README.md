@@ -91,9 +91,6 @@
     <a href="https://github.com/KrazyManJ/haby">
         <img alt="haby" src="https://github-readme-stats-one-virid-43.vercel.app/api/pin/?username=krazymanj&amp;repo=haby&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
     </a>
-    <a href="https://github.com/KrazyManJ/codesnip">
-        <img alt="codesnip" src="https://github-readme-stats-one-virid-43.vercel.app/api/pin/?username=krazymanj&amp;repo=codesnip&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
-    </a>
 </p>
 
 
