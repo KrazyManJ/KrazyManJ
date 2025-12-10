@@ -21,7 +21,7 @@
 ***
 
 <a href="https://github.com/KrazyManJ">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krazymanj&layout=compact&bg_color=0d1117&border_radius=10&hide_border=true&card_width=600&hide_title=true&title_color=70D7FF&text_color=ffffff&langs_count=20" alt="top-languages">
+    <img width="100%" src="https://github-readme-stats-one-virid-43.vercel.app/api/top-langs/?username=krazymanj&layout=compact&bg_color=0d1117&border_radius=10&hide_border=true&card_width=600&hide_title=true&title_color=70D7FF&text_color=ffffff&langs_count=20" alt="top-languages">
 </a>
 
 ***
@@ -44,16 +44,16 @@
 
 <p align="center" width="100%">
     <a href="https://github.com/KrazyManJ/templatoron">
-        <img alt="templatoron" src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&amp;repo=templatoron&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
+        <img alt="templatoron" src="https://github-readme-stats-one-virid-43.vercel.app/api/pin/?username=krazymanj&amp;repo=templatoron&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
     </a>
     <a href="https://github.com/KrazyManJ/obsidian-keyshots">
-        <img alt="obsidian-keyshots" src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&amp;repo=obsidian-keyshots&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
+        <img alt="obsidian-keyshots" src="https://github-readme-stats-one-virid-43.vercel.app/api/pin/?username=krazymanj&amp;repo=obsidian-keyshots&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
     </a>
     <a href="https://github.com/KrazyManJ/rainmeter-dynamic-island">
-        <img alt="rainmeter-dynamic-island" src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&amp;repo=rainmeter-dynamic-island&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
+        <img alt="rainmeter-dynamic-island" src="https://github-readme-stats-one-virid-43.vercel.app/api/pin/?username=krazymanj&amp;repo=rainmeter-dynamic-island&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
     </a>
     <a href="https://github.com/KrazyManJ/rainmeter-nothing-widgets">
-        <img alt="rainmeter-nothing-widgets" src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&amp;repo=rainmeter-nothing-widgets&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
+        <img alt="rainmeter-nothing-widgets" src="https://github-readme-stats-one-virid-43.vercel.app/api/pin/?username=krazymanj&amp;repo=rainmeter-nothing-widgets&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
     </a>
 </p>
 
@@ -62,16 +62,16 @@
 
 <p align="center" width="100%">
     <a href="https://github.com/KrazyManJ/pyvscode">
-        <img alt="pyvscode" src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&amp;repo=pyvscode&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
+        <img alt="pyvscode" src="https://github-readme-stats-one-virid-43.vercel.app/api/pin/?username=krazymanj&amp;repo=pyvscode&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
     </a>
     <a href="https://github.com/KrazyManJ/pyjetbrains">
-        <img alt="pyjetbrains" src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&amp;repo=pyjetbrains&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
+        <img alt="pyjetbrains" src="https://github-readme-stats-one-virid-43.vercel.app/api/pin/?username=krazymanj&amp;repo=pyjetbrains&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
     </a>
     <a href="https://github.com/KrazyManJ/uniter">
-        <img alt="uniter" src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&amp;repo=uniter&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
+        <img alt="uniter" src="https://github-readme-stats-one-virid-43.vercel.app/api/pin/?username=krazymanj&amp;repo=uniter&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
     </a>
     <a href="https://github.com/KrazyManJ/XMLTK">
-        <img alt="XMLTK" src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&amp;repo=XMLTK&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
+        <img alt="XMLTK" src="https://github-readme-stats-one-virid-43.vercel.app/api/pin/?username=krazymanj&amp;repo=XMLTK&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
     </a>
 </p>
 
@@ -80,13 +80,19 @@
 
 <p align="center" width="100%">
     <a href="https://github.com/KrazyManJ/luminary">
-        <img alt="luminary" src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&amp;repo=luminary&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
+        <img alt="luminary" src="https://github-readme-stats-one-virid-43.vercel.app/api/pin/?username=krazymanj&amp;repo=luminary&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
     </a>
     <a href="https://github.com/KrazyManJ/vyrologic">
-        <img alt="vyrologic" src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&amp;repo=vyrologic&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
+        <img alt="vyrologic" src="https://github-readme-stats-one-virid-43.vercel.app/api/pin/?username=krazymanj&amp;repo=vyrologic&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
     </a>
-    <a href="https://github.com/KrazyManJ/mendel-algorithmization">
-        <img alt="mendel-algorithmization" src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&amp;repo=mendel-algorithmization&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
+    <a href="https://github.com/KrazyManJ/gitliv">
+        <img alt="gitliv" src="https://github-readme-stats-one-virid-43.vercel.app/api/pin/?username=krazymanj&amp;repo=gitliv&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
+    </a>
+    <a href="https://github.com/KrazyManJ/haby">
+        <img alt="haby" src="https://github-readme-stats-one-virid-43.vercel.app/api/pin/?username=krazymanj&amp;repo=haby&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
+    </a>
+    <a href="https://github.com/KrazyManJ/codesnip">
+        <img alt="codesnip" src="https://github-readme-stats-one-virid-43.vercel.app/api/pin/?username=krazymanj&amp;repo=codesnip&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
     </a>
 </p>
 
@@ -95,13 +101,13 @@
 
 <p align="center" width="100%">
     <a href="https://github.com/KrazyManJ/final-programming-project">
-        <img alt="final-programming-project" src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&amp;repo=final-programming-project&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
+        <img alt="final-programming-project" src="https://github-readme-stats-one-virid-43.vercel.app/api/pin/?username=krazymanj&amp;repo=final-programming-project&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
     </a>
     <a href="https://github.com/KrazyManJ/Curriculum-Challenges">
-        <img alt="Curriculum-Challenges" src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&amp;repo=Curriculum-Challenges&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
+        <img alt="Curriculum-Challenges" src="https://github-readme-stats-one-virid-43.vercel.app/api/pin/?username=krazymanj&amp;repo=Curriculum-Challenges&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
     </a>
     <a href="https://github.com/KrazyManJ/eshop-sneakeran">
-        <img alt="eshop-sneakeran" src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&amp;repo=eshop-sneakeran&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
+        <img alt="eshop-sneakeran" src="https://github-readme-stats-one-virid-43.vercel.app/api/pin/?username=krazymanj&amp;repo=eshop-sneakeran&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
     </a>
 </p>
 
@@ -110,10 +116,10 @@
 
 <p align="center" width="100%">
     <a href="https://github.com/KrazyManJ/KrazyEngine">
-        <img alt="KrazyEngine" src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&amp;repo=KrazyEngine&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
+        <img alt="KrazyEngine" src="https://github-readme-stats-one-virid-43.vercel.app/api/pin/?username=krazymanj&amp;repo=KrazyEngine&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
     </a>
     <a href="https://github.com/KrazyManJ/fablab-spring-2022">
-        <img alt="fablab-spring-2022" src="https://github-readme-stats.vercel.app/api/pin/?username=krazymanj&amp;repo=fablab-spring-2022&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
+        <img alt="fablab-spring-2022" src="https://github-readme-stats-one-virid-43.vercel.app/api/pin/?username=krazymanj&amp;repo=fablab-spring-2022&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
     </a>
 </p>
 

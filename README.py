@@ -8,7 +8,7 @@ def LinkBuilder(url: str, params: dict[str, str]):
     return url + "?" + urllib.parse.urlencode(params)
 
 
-LANG_DISPLAY = LinkBuilder("https://github-readme-stats.vercel.app/api/top-langs/", {
+LANG_DISPLAY = LinkBuilder("https://github-readme-stats-one-virid-43.vercel.app/api/top-langs/", {
     "username": "krazymanj",
     "layout": "compact",
     "bg_color": "0d1117",
@@ -76,7 +76,7 @@ TOOLS_ICONS = LinkBuilder("https://skillicons.dev/icons", {
 })
 
 def RepoLink(reponame: str):
-    return LinkBuilder("https://github-readme-stats.vercel.app/api/pin/", {
+    return LinkBuilder("https://github-readme-stats-one-virid-43.vercel.app/api/pin/", {
         "username": "krazymanj",
         "repo": reponame,
         "bg_color": "07090D",
@@ -152,7 +152,7 @@ open("README.md", "w", encoding="UTF-8").write(
 
 <h2 align=center>🎓 University Projects 🎓</h2>
 
-{RepoPinList(["luminary" ,"vyrologic", "mendel-algorithmization"])}
+{RepoPinList(["luminary" ,"vyrologic", "gitliv", "haby"])}
 
 <h2 align=center>🏫 Secondary School Projects 🏫</h2>
 
