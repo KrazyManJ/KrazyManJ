@@ -6,7 +6,7 @@
   Hi, my name is Jaroslav Korčák, known as KrazyManJ on the Internet, I am fullstack developer mainly making code to make his, and others devs lifes easier.
 </p>
 
-<h3 align=center>🧱 Frameworks 🧱</h3>
+<h3 align=center>💻 Languages & Frameworks 💻</h3>
 
 <p align=center>
     <img src="https://skillicons.dev/icons?theme=dark&i=react%2Ctailwind%2Cscss%2Cdotnet%2Cqt%2Cfastapi">
@@ -29,14 +29,6 @@
 <a href="https://github.com/KrazyManJ">
     <img width="100%" src="https://streak-stats.demolab.com?user=KrazyManJ&hide_border=true&border_radius=10&card_width=800&background=EBEBEB00&ring=2397EB&fire=06B9EB&dates=C0C0C0&currStreakNum=00DCEB&sideNums=B8B8B8&currStreakLabel=EBEBEB&sideLabels=8D8D8D" alt="github-stats">
 </a>
-
-***
-
-<p align=center>
-    <a href="https://github.com/KrazyManJ">
-        <img width="100%" src="https://github-profile-trophy.vercel.app/?username=krazymanj&no-frame=true&no-bg=true&theme=onestar&column=5" alt="trophies">
-    </a>
-</p>
 
 ***
 
@@ -101,7 +93,7 @@
 
 
 <h2 align=center>🏫 Secondary School Projects 🏫</h2>
-s
+
 <p align="center" width="100%">
     <a href="https://github.com/KrazyManJ/final-programming-project">
         <img alt="final-programming-project" src="https://github-readme-stats-one-virid-43.vercel.app/api/pin/?username=krazymanj&amp;repo=final-programming-project&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
@@ -125,6 +117,3 @@ s
         <img alt="fablab-spring-2022" src="https://github-readme-stats-one-virid-43.vercel.app/api/pin/?username=krazymanj&amp;repo=fablab-spring-2022&amp;bg_color=07090D&amp;hide_border=True&amp;border_radius=10&amp;title_color=70D7FF&amp;text_color=8B949E&amp;cache_seconds=7200"/>
     </a>
 </p>
-
-
-***
